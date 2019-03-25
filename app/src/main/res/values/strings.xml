@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Login Android</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="error">Error</string>
+    <string name="ok">OK</string>
+    <string name="can_not_create">Can not create new account</string>
+    <string name="invalid_account">Invalid Account</string>
+    <string name="username_exists">Username Exists</string>
+    <string name="welcome">Welcome</string>
+    <string name="change_profile">Change Profile</string>
+    <string name="failed">Failed</string>
+</resources>
